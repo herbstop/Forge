@@ -1,3 +1,5 @@
+FORGE - 0.1.0 BETA
+
 This if Forge, an UI application for running LLMs locally on your desktop.  
 
 - Windows x64 support
