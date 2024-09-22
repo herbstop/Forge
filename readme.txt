@@ -1,11 +1,12 @@
-FORGE - 0.1.0 BETA
+FORGE - 0.0.1 BETA
 
-This if Forge, an UI application for running LLMs locally on your desktop.  
+This is Forge, an UI application for running LLMs locally on your desktop.  
 
-- Windows x64 support
-- Llama 3.1, OpenAI, Qwen 2.5 build in support
+- Windows x64 support (Mac and Linux coming ..)
+- Llama 3.1, OpenAI, Qwen 2.5, Mistral build in support
 - Based on LlamaCpp backend
+- Support additional models - see llmdefs.json file
 
-Install and run!
+Just Install and run!
 
-Email herbsto@gmail.com for any questions.
+Email herbsto(at)gmail(dot)com for any questions.
